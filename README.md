@@ -1,6 +1,6 @@
 # Guess the Number C++ Style
 
-The classic game implemented in C++ as a learning exercise.
+The classic game implemented in native C++ as a learning exercise.
 
 ## Installation
 

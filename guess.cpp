@@ -24,10 +24,10 @@ int main() {
         cout << "It took you " << guessCount << " guess(es) to find the right answer." << endl;
         keepGuessing = false;
       } else if ( guess < answer ) {
-        cout << "Try higher" << endl;
+        cout << "Too low" << endl;
         guessCount++;
       } else if ( guess > answer ) {
-        cout << "Try lower" << endl;
+        cout << "Too high" << endl;
         guessCount++;
       }
   }
